@@ -19,7 +19,7 @@ $ pip install -r requirements.txt
 2. Using Virtualenv :
 Open the ReviewSystem-master folder then type:
 ```
-$ virtualenv -p python=3.6 ReviewSystem
+$ virtualenv -p python3.6 ReviewSystem
 $ . ReviewSystem/bin/activate
 $ pip install -r requirements.txt
 ```
